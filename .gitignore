@@ -50,3 +50,16 @@ coverage.xml
 
 # Sphinx documentation
 docs/_build/
+
+mysite/__init__.pyc
+mysite/settings.pyc
+mysite/urls.pyc
+mysite/wsgi.pyc
+polls/__init__.pyc
+polls/admin.pyc
+polls/apps.pyc
+polls/migrations/0001_initial.pyc
+polls/migrations/__init__.pyc
+polls/models.pyc
+polls/urls.pyc
+polls/views.pyc
